@@ -12,8 +12,9 @@ General rules
 
 ### Article
 Article contains following sections:
-1. Header [mandatory]
-2. Body
+
+1.  Header
+2.  Body
 
 #### Header
 Header starts and finishs with ------header------ and contains following attributes:
